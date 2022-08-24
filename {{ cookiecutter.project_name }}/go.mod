@@ -1,4 +1,4 @@
-module linuxbook
+module {{ cookiecutter.project_name }}
 
 go 1.18
 
